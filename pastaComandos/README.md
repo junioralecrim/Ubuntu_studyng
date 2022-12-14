@@ -15,4 +15,4 @@ por você e o sistema)
 f - Alterando acesso de arquivo apenas para leitura para todos os usuários do sistema = chmod 444 [nome_arquivo]
   [Outros comandos de permissão](https://e-tinet.com/linux/chmod/#:~:text=Tamb%C3%A9m%20conhecido%20como%20change%20mode,permiss%C3%B5es%20dos%20usu%C3%A1rios%20%C3%A9%20essencial.)
   
-h - Para criar um usuário
+h - Para criar um usuário usa-se o comando adduser
